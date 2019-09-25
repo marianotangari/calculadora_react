@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.key{
+  width: 70px; 
+  height: 60px;
+  text-align: center;
+  margin: 2px;
+  font-size: 20px;
+  font: Monaco;  
+  text-shadow: 0.5px 0.5px grey; 
+}
+.key:hover{
+    cursor: pointer;
+}
+
+.Calculadora{
+  width: 400px;
+  margin-left: 40%;
+  margin-right: 25%; 
+  margin-top: 5%;
+  margin-bottom: 10%;
+}
+
+.label{
+  background-color: whitesmoke;
+  margin-left: 13.5%;
+  margin-right: 13.5%;
+  margin-bottom: 10px;
+  height: 35px;
+  border: solid rgb(174, 180, 187) 0.01em;
+  font: Monaco;
+  text-shadow: 0.5px 0.5px grey; 
+  font-size: 20px;
+}
